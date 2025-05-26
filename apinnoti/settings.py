@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-f(ok#2mibe0tz!n7c93zk^e5=163c6xqn!2jgao%2u)c_2a))b
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['apimensajes-iwpw.onrender.com']
 
 
 # Application definition
